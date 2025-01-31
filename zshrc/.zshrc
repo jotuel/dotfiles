@@ -1,7 +1,7 @@
 # Set up the prompt
 
 # This is for push_swap args to be treated not as a string
-setopt SH_WORD_SPLIT
+#setopt SH_WORD_SPLIT
 
 #Alias for compiling with expected flags && norminette+
 alias emacs="~/.brew/bin/emacs"
